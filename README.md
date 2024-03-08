@@ -1,4 +1,4 @@
-![image](https://github.com/IIC2513/Syllabus-S1/assets/85193399/7ce9be2e-906a-442e-92aa-5c8b52add73f)![image](https://github.com/IIC2513/Syllabus-S1/assets/85193399/cf80e767-51fd-4e6c-9e78-737852d17d26)# IIC2513 - Tecnologías y Aplicaciones Web
+# IIC2513 - Tecnologías y Aplicaciones Web
 
 Este curso está diseñado para que sus estudiantes logren comprender la infraestructura tecnológica que soporta la World Wide Web y a manejar las principales tecnologías utilizadas en la creación de sitios y aplicaciones web. Además, el curso proporciona una base conceptual sólida para poder entender y trabajar con las nuevas tecnologías y propuestas que surgen en este contexto de manera constante.
 
