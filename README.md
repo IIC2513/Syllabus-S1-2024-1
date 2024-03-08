@@ -30,6 +30,7 @@ Este curso está diseñado para que sus estudiantes logren comprender la infraes
 | Victoria Jiménez | [@vjimenezs] | [victoria.jimenez@uc.cl] |
 
 1: Rodrigo es el ayudante coordinadora del curso
+
 2: Gustavo es el ayudante de bienestar del curso
 
 [@rodrigoogalde]:            https://github.com/rodrigoogalde
