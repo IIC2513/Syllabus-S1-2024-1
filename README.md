@@ -29,7 +29,7 @@ Este curso está diseñado para que sus estudiantes logren comprender la infraes
 | Pablo Sepúlveda | [@PSepulvedaS] | [pablo.seplveda@uc.cl] |
 | Victoria Jiménez | [@vjimenezs] | [victoria.jimenez@uc.cl] |
 
-1: Rodrigo es el ayudante coordinadora del curso
+1: Rodrigo es el ayudante coordinador del curso
 
 2: Gustavo es el ayudante de bienestar del curso
 
